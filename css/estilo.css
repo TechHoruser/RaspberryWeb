@@ -1,0 +1,20 @@
+.fondo_negro{
+	background-color: black;
+}
+
+.fondo_azul{
+	background-color: blue;
+}
+
+.centrar{
+	text-align: center;
+}
+
+#cuadro_login{
+	width: 20em;
+	margin-top: 50px;
+}
+
+#circulos{
+	padding-top: 10px;
+}
